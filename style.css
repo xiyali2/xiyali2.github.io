@@ -1,0 +1,12 @@
+body {
+  background: white;
+  text-align: center;
+  font-family: verdana;
+}
+#introduction{
+  text-align: center;
+}
+
+.button{
+  font-size: 300 px;
+}
